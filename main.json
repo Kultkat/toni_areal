@@ -133,30 +133,91 @@
                                      "x":31.3241702983574,
                                      "y":0.0715163705441949
                                     }],
+                             "properties":[
+                                    {
+                                     "name":"collision",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
                              "width":0,
                              "x":0.357581852720974,
                              "y":0.500614593809364
+                            }, 
+                            {
+                             "height":0,
+                             "id":2,
+                             "name":"",
+                             "polygon":[
+                                    {
+                                     "x":0,
+                                     "y":0
+                                    }, 
+                                    {
+                                     "x":-3.94860786585042,
+                                     "y":-8.86802994748017
+                                    }, 
+                                    {
+                                     "x":22.3343132412165,
+                                     "y":-8.65348083584758
+                                    }, 
+                                    {
+                                     "x":22.2726162433125,
+                                     "y":21.0973293105375
+                                    }, 
+                                    {
+                                     "x":-3.76351687213868,
+                                     "y":20.9542965694491
+                                    }, 
+                                    {
+                                     "x":-3.88691086794651,
+                                     "y":-8.72499720639177
+                                    }, 
+                                    {
+                                     "x":-8.20570072122041,
+                                     "y":-1.4303274108839
+                                    }],
+                             "properties":[
+                                    {
+                                     "name":"collides",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
+                             "rotation":0,
+                             "type":"",
+                             "visible":true,
+                             "width":0,
+                             "x":8.84682431605251,
+                             "y":9.7977427645547
+                            }, 
+                            {
+                             "height":0,
+                             "id":3,
+                             "name":"",
+                             "polyline":[
+                                    {
+                                     "x":0,
+                                     "y":0
+                                    }, 
+                                    {
+                                     "x":9.44016091183372,
+                                     "y":-1.64487652251648
+                                    }],
+                             "rotation":0,
+                             "type":"",
+                             "visible":true,
+                             "width":0,
+                             "x":0,
+                             "y":0
                             }],
                      "opacity":1,
                      "type":"objectgroup",
                      "visible":true,
                      "x":0,
                      "y":0
-                    },
-                 "properties":[
-                        {
-                         "name":"Collision",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"collision",
-                         "type":"bool",
-                         "value":true
-                        }]
+                    }
                 }],
          "tilewidth":32
         }, 
