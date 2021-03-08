@@ -593,7 +593,13 @@
                      "visible":true,
                      "x":0,
                      "y":0
-                    }
+                    },
+                 "properties":[
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"5_kanngefaerlichsein.mp3"
+                        }]
                 }],
          "tilewidth":32
         }, 
