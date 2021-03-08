@@ -32,12 +32,6 @@
          "id":15,
          "name":"Gruenbelow",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"playAudio",
-                 "type":"string",
-                 "value":"VoiceRenaultZOE.mp3"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":120,
